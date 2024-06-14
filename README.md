@@ -9,7 +9,7 @@
 
 Neste repositório se encontram meus projetos e tarefas das disciplinas de:
 - Desenvolvimento web (PHP, Form Handling, Form Security, POO, Laravel);
-- Técnicas de programação (Java(Repetição, Matriz, Array, POO, Eclipse) e versionamento(Git);
+- Técnicas de programação (Java(Repetição, Matriz, Array, POO, Eclipse) e versionamento(Git));
 - Banco de Dados Relacional (Funções de grupo, Junção de tabelas, Subconsulta, Procedures, Functions, Repetição, Condicional);
 - Estrutura de dados (Algoritmos de ordenação, Vetor, Matriz, Pilha, Fila, Ponteiro, Lista);
 
