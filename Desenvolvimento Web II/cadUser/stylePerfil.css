@@ -1,0 +1,16 @@
+.row{
+    width: 500px;
+}
+
+.col{
+    padding: 20px;
+    border-radius: 10px;
+    -webkit-box-shadow:0px 10px 15px 10px rgba(0,0,0,0.22);
+    -moz-box-shadow: 0px 10px 15px 10px rgba(0,0,0,0.22);
+    box-shadow: 0px 10px 15px 10px rgba(0,0,0,0.22);
+}
+
+h5{
+    border-bottom: 1px solid #000;
+    padding-bottom: 5px;
+}

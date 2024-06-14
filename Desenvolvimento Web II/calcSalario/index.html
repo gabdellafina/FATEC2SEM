@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="style.css">
+
+    <title>Cálculo de salário</title>
+
+</head>
+
+<body>
+
+    <div class="container mt-5 d-flex align-items-center">
+
+        <div class="container p-5 mr-5">
+
+            <h1>Cálculo de Salário</h1>
+
+            <form method="get" action="salario.php" class="form-group">
+
+                Codigo do funcionario : <input type="text" name="txtCodigo" class="form-control"
+                    placeholder="Digite aqui..."><br>
+
+                Salario Base: <input type="text" name="txtSalbase" class="form-control"
+                    placeholder="Digite aqui..."><br>
+
+                Horas mensais trabalhadas : <input type="text" name="txtHrmensal" class="form-control"
+                    placeholder="Digite aqui..."><br>
+
+                Horas extrar no mês: <input type="text" name="txtExtra" class="form-control"
+                    placeholder="Digite aqui..."><br>
+
+                Valor em reais da hora trabalhada: <input type="text" name="txtValor" class="form-control"
+                    placeholder="Digite aqui..."><br>
+
+                Numero de dependentes: <input type="text" name="txtDependentes" class="form-control"
+                    placeholder="Digite aqui..."><br>
+
+                <input type="submit" value="Calcular valores" class="btn btn-success">
+
+            </form>
+
+        </div>
+
+        <div class="container d-flex justify-content-center align-items-center">
+
+            <img src="img/money-symbol-icon-png.webp" alt="" width="200px" class="p-2">
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>
