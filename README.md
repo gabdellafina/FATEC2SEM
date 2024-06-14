@@ -14,3 +14,5 @@ Neste repositório se encontram meus projetos e tarefas das disciplinas de:
 - Estrutura de dados (Algoritmos de ordenação, Vetor, Matriz, Pilha, Fila, Ponteiro, Lista);
 
 Também foram ministradas as matérias de Engenharia de Software II e Matemática para Computação.
+
+(em construção)
