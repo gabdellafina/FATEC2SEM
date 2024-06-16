@@ -1,0 +1,13 @@
+DECLARE
+
+v_num NUMBER := :Num;
+
+BEGIN
+
+DBMS_OUTPUT.PUT_LINE(v_num/0);
+
+EXCEPTION
+
+WHEN ZERO_DIVIDE THEN DBMS_OUTPUT.PUT_LINE('Não dividir por zero');
+
+END;

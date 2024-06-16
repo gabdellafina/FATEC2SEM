@@ -1,0 +1,27 @@
+<h3>Banco de Dados Relacional 🛢</h3>
+
+Aqui estão meus projetos desenvolvidos durante as aulas de Banco de Dados Relacional
+
+O que eu aprendi no curso:
+- Funções de grupo
+- Junção de grupo
+- Subconsultas
+- Procedures
+- Functions
+- Packages
+- Triggers
+- Views
+- Repetição
+- Condicional
+
+Projetos presentes no repositório:
+- Juncao de tabelas
+- Subconsulta
+- Bloco anônimo
+- Estrutura de controle e cursores explícitos
+- Views
+- Exceptions
+- Procedures e functions
+- Packages
+- Triggers
+- Sistema de loja com API de pagamento
